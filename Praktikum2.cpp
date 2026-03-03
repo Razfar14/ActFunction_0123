@@ -23,3 +23,11 @@ void output(){
     cout << "Luas persegi: " << luasPersegi(p,l) << endl;
  }
 
+ //Program utama
+int main() {
+    //start
+    input();
+    output();
+    cout << "Jumlah: " << jumlah(5,6,9) << endl;
+    //end
+}
