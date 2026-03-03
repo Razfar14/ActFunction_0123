@@ -24,3 +24,6 @@ void output(){
 int main() {
     //start
     input();
+    output();
+    //end
+}
