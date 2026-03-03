@@ -16,3 +16,6 @@ float luasPersegi(){
     return p*l;
 }
 
+void output(){
+    cout << "Luas persegi: " << luasPersegi() << endl;
+}
