@@ -19,3 +19,6 @@ float luasPersegi(){
 void output(){
     cout << "Luas persegi: " << luasPersegi() << endl;
 }
+
+//Program utama
+int main() {
