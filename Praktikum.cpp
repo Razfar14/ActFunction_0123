@@ -12,4 +12,7 @@ void input(){
     cin >> l;
 }
 
+float luasPersegi(){
+    return p*l;
+}
 
