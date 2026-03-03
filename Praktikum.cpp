@@ -22,3 +22,5 @@ void output(){
 
 //Program utama
 int main() {
+    //start
+    input();
